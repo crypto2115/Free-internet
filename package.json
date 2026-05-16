@@ -1,0 +1,10 @@
+{
+  "name": "vpn-decryptor-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "crypto-js": "^4.2.0",
+    "axios": "^1.6.8"
+  }
+}
